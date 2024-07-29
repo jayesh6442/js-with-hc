@@ -1,5 +1,3 @@
-console.log("we are in the nums ");
+// console.log(Math);
 
-const bal = new Number(4444);
-
-console.log(bal);
+// console.log(Math.floor(Math.random(1, 100) * 100));
